@@ -4,6 +4,8 @@ Welcome to **NooB Piano**, the magical music game that turns learning the piano 
 
 Whether you've never touched a piano before or you want to play your favorite cartoon and video game tunes, NooB Piano makes every note feel like winning a game!
 
+[Download Now](https://github.com/chackco/noob_piano_pub/releases)
+
 ---
 
 ## 🎮 Why Kids & Parents Love NooB Piano!
