@@ -44,6 +44,20 @@ Love songs from Disney, Super Mario, Minecraft, or anime? Search for any piano v
 ### 🏆 7. Worldwide Hall of Fame Leaderboard!
 Show the world your skills! Every song you finish earns points toward the **Global Leaderboard**. Can you make it to the Top 3 and wear the Golden Crown? 👑
 
+### 🎼 8. "♭ Learn Note" — The Magic Music Academy!
+Want to read music like a wizard? Click the green **"♭ Learn Note"** button to jump into Maestro Bunny's fun learning world!
+- 🎶 **The 5 Magic Lines & Spaces:** Discover where notes live and how to read them easily!
+- 🧸 **The Grand Hug Brace `{`:** Meet the big curly brace that holds both of your hands together on the piano!
+- 𝄞 **The 3 Musical Clefs:** Learn the happy high **Treble Clef `𝄞`** (right hand), the deep roaring **Bass Clef `𝄢`** (left hand), and the magical **C-Clef `𝄡`**!
+- 🎯 **Play-Along Quests:** Tap your keys or click your mouse to complete interactive mini-games, solve note puzzles, and win shiny Maestro badges!
+
+### 🌟 9. Magic Clefs & Musical Symbols on Every Key!
+Never get lost on the keyboard again! Every piano key on your screen now wears its own musical symbol:
+- 👑 **Middle C ($C_4$):** Shines with a golden **`𝄡` C-Clef Anchor Star** so your thumbs always find home!
+- ☀️ **Treble $G_4$ Key:** Wears the smiling **`𝄞` Treble Clef** for sunny high notes!
+- 🦁 **Bass $F_3$ Key:** Wears the strong **`𝄢` Bass Clef** for deep foundation notes!
+- 🪄 **Black Keys:** Marked with **`♯` Sharp** symbols so you always know where accidental magic notes hide!
+
 ---
 
 ## 🚀 How to Start Playing in 3 Easy Steps!
