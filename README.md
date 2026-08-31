@@ -35,7 +35,7 @@ Learning a fast song? No problem! Use the **Turtle** 🐢 or **Snail** 🐌 slow
 
 ### 🎹 5. Works With Real Pianos, Keyboards, or Your Screen!
 - **Real Piano or Keyboard in your room?** The game hears your piano through your computer microphone!
-- **USB Keyboard?** Plug it in and play with zero delay!
+- **USB Keyboard?** Plug it in and play with zero delay! [Test with YAMAHA PSR-E483]
 - **No piano at home yet?** Play directly with your mouse or keyboard right on your computer screen!
 
 ### 🎬 6. Play Your Favorite YouTube Songs!
