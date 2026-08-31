@@ -79,6 +79,7 @@ Never get lost on the keyboard again! Every piano key on your screen now wears i
 ## 👨‍👩‍👧 Note for Parents & Music Teachers
 NooB Piano is designed to spark a lifelong love for music through interactive play, positive encouragement, and instant visual feedback. It safely trains ear recognition, hand coordination, and musical rhythm in a joyful, stress-free environment.
 
+- **Registration:** Upon first launch, click 'Register' to activate the software (Free for personal use).
 ---
 
 ### ⭐ Give Us a Star!
